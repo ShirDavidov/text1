@@ -1,1 +1,2 @@
 first line in file.txt local repository
+second line in file1.txt remote repository
